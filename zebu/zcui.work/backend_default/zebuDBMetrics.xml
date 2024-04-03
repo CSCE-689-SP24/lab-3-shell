@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZeBuUiDoc version="1.0" creator="zCui" type="xcui">
+ <Metrics>
+  <Attribute id="compileStatus">
+   <Value>PASS</Value>
+  </Attribute>
+  <Attribute id="frontendCompileTime">
+   <Value>37</Value>
+  </Attribute>
+  <Attribute id="frontendCPU">
+   <Value>15</Value>
+  </Attribute>
+  <Attribute id="backendCompileTime">
+   <Value>59</Value>
+  </Attribute>
+  <Attribute id="backendCPU">
+   <Value>26</Value>
+  </Attribute>
+  <Attribute id="noFpgaBackendCompileTime">
+   <Value>51</Value>
+  </Attribute>
+  <Attribute id="overallCompileTime">
+   <Value>96</Value>
+  </Attribute>
+  <Attribute id="compileTimeWithGrid">
+   <Value>79</Value>
+  </Attribute>
+  <Attribute id="compileTimeWithoutGrid">
+   <Value>41</Value>
+  </Attribute>
+  <Attribute id="ZebuLocal_CumulativeTime">
+   <Value>13</Value>
+  </Attribute>
+  <Attribute id="ZebuSynthesis_CumulativeTime">
+   <Value>8</Value>
+  </Attribute>
+  <Attribute id="Zebu_CumulativeTime">
+   <Value>58</Value>
+  </Attribute>
+  <Attribute id="boardNumber">
+   <Value>1</Value>
+  </Attribute>
+  <Attribute id="fpgaNumber">
+   <Value>3</Value>
+  </Attribute>
+  <Attribute id="systemArchitecture">
+   <Value>ZS3</Value>
+  </Attribute>
+  <Attribute id="softwareRelease">
+   <Value>Q-2020.03-SP1-4</Value>
+  </Attribute>
+  <Attribute id="driverClockFrequencyKHz">
+   <Value>10000</Value>
+  </Attribute>
+  <Table id="main_stage_duration">
+   <Header>
+    <VCS>
+     <Title>vcs</Title>
+    </VCS>
+    <VCS_ANALYZER>
+     <Title>vcs analyzer</Title>
+    </VCS_ANALYZER>
+    <SYNTHESIS>
+     <Title>synthesis</Title>
+    </SYNTHESIS>
+    <RTLDB_INDEXER>
+     <Title>rtldb indexer</Title>
+    </RTLDB_INDEXER>
+    <BUILD_SYSTEM>
+     <Title>build system</Title>
+    </BUILD_SYSTEM>
+    <PLACE_AND_ROUTE>
+     <Title>place and route</Title>
+    </PLACE_AND_ROUTE>
+   </Header>
+   <Row>
+    <VCS>8</VCS>
+    <VCS_ANALYZER>1</VCS_ANALYZER>
+    <SYNTHESIS>8</SYNTHESIS>
+    <RTLDB_INDEXER>2</RTLDB_INDEXER>
+    <BUILD_SYSTEM>8</BUILD_SYSTEM>
+    <PLACE_AND_ROUTE>15</PLACE_AND_ROUTE>
+   </Row>
+   <Row>
+    <VCS>7</VCS>
+    <VCS_ANALYZER>1</VCS_ANALYZER>
+    <SYNTHESIS>6</SYNTHESIS>
+    <RTLDB_INDEXER>0</RTLDB_INDEXER>
+    <BUILD_SYSTEM>6</BUILD_SYSTEM>
+    <PLACE_AND_ROUTE>13</PLACE_AND_ROUTE>
+   </Row>
+   <Row>
+    <VCS> 155388</VCS>
+    <VCS_ANALYZER>0</VCS_ANALYZER>
+    <SYNTHESIS> 111120</SYNTHESIS>
+    <RTLDB_INDEXER> 77940</RTLDB_INDEXER>
+    <BUILD_SYSTEM> 342844</BUILD_SYSTEM>
+    <PLACE_AND_ROUTE> 1540944</PLACE_AND_ROUTE>
+   </Row>
+  </Table>
+ </Metrics>
+</ZeBuUiDoc>

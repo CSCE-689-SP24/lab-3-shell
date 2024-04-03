@@ -1,0 +1,36 @@
+
+Processing parity
+before buildCfgFromIStructural: 0u 0s 31e 601648kB
+Before processing instances: 0u 0s 35e 601648kB
+After processing instances: 0u 0s 35e 601648kB
+before processing cont assigns: 0u 0s 35e 601648kB
+after processing cont assigns: 0u 0s 37e 601648kB
+before processing processes: 0u 0s 37e 601648kB
+after processing processes: 0u 0s 37e 601648kB
+after buildCfgFromIStructural: 0u 0s 38e 601648kB
+before ns->mergeSimpleProcesses: 0u 0s 38e 601648kB
+after ns->mergeSimpleProcesses: 0u 0s 38e 601648kB
+before ns->splitPartialWrites: 0u 0s 38e 601648kB
+after ns->splitPartialWrites: 0u 0s 38e 601648kB
+before removeUnneededLatches: 0u 0s 38e 601648kB
+after removeUnneededLatches: 0u 0s 38e 601648kB
+before printMsgForBothBAandNBAAccrossProcess: 0u 0s 38e 601648kB
+after printMsgForBothBAandNBAAccrossProcess: 0u 0s 38e 601648kB
+after other NameScope processing: 0u 0s 38e 601648kB
+before rebuildInstGraph: 0u 0s 39e 601648kB
+  before addAllInScope: 0u 0s 39e 601648kB
+  after addAllInScope: 0u 0s 39e 601648kB
+after rebuildInstGraph: 0u 0s 39e 601648kB
+before markTristateCones : 0u 0s 39e 601648kB
+after markTristateCones : 0u 0s 39e 601648kB
+after scheduling: 0u 0s 46e 601648kB
+after model->finalize: 0u 0s 54e 601648kB
+before attribute propagation: 0u 0s 55e 601648kB
+after attribute propagation: 0u 0s 55e 601648kB
+before constantPropagate: 0u 0s 55e 601648kB
+after constantPropagate: 0u 0s 55e 601648kB
+before removeUnusedSignals circuit: 0u 0s 55e 601648kB
+after removeUnusedSignals circuit: 0u 0s 55e 601648kB
+before optimize latch enable: 0u 0s 55e 601648kB
+after optimize latch enable: 0u 0s 55e 601648kB
+after circuit->load: 0u 0s 55e 601648kB
